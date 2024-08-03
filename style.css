@@ -59,7 +59,7 @@ nav ul li a:hover::after{
 .header-text{
     margin-top: 20%;
     font-size: 30px;
-    color: #0d0c10;
+    color: white;
     text-decoration-style: solid;
     
 }
@@ -70,7 +70,7 @@ nav ul li a:hover::after{
     text-decoration-style: wavy;
 }
 .header-text h1 span{
-    color: rgb(1, 0, 12);
+    color: white;
 }
 /* -------about--------- */
 #about{
