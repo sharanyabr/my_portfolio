@@ -336,7 +336,7 @@ nav .fa-solid{
         margin-top: 36%;
         font-size: 20px;
         font-weight: bolder;
-        color:#f4b5b8;
+        color:black;
         
     }
     .header-text h1{
@@ -344,7 +344,7 @@ nav .fa-solid{
         color: antiquewhite;
     }
     .header-text h1 span{
-        color:#f4b5b8;
+        color: antiquewhite;
     }
     nav .fa-solid{
         display: block;
