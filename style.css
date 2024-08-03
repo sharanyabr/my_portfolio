@@ -60,6 +60,7 @@ nav ul li a:hover::after{
     margin-top: 20%;
     font-size: 35px;
     color: saddlebrown;
+    font-weight: bold;
     text-decoration-style: double;
     
 }
@@ -332,11 +333,18 @@ nav .fa-solid{
         background-image: url(background_1.jpg);
     }
     .header-text{
-        margin-top: 100%;
+        margin-top: 36%;
         font-size: 20px;
+        font-weight: bolder;
+        color:#f4b5b8;
+        
     }
     .header-text h1{
         font-size: 30px;
+        color: antiquewhite;
+    }
+    .header-text h1 span{
+        color:#f4b5b8;
     }
     nav .fa-solid{
         display: block;
